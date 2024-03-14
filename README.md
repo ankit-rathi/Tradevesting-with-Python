@@ -31,4 +31,6 @@ Tradevesting with Python
 - Selection Criteria
 - Tradevesting Strategies
 - Configure & Analyse
-- Recommendations
+- Buy and Sell Recommendations
+- Portfolio Analysis
+- Valuation Gap Analysis
