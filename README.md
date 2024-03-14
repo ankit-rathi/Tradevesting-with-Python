@@ -2,12 +2,12 @@
 
 Tradevesting with Python
 
-Introduction
+### Introduction
 - Tradevesting
 - Python
 - Framework
 
-Tradevesting
+### Tradevesting
 - Trading or/and Investing
 - Tradevesting Mindset
 - Macronomic Analysis
@@ -17,7 +17,7 @@ Tradevesting
 - Technical Analysis
 
 
-Python
+### Python
 - Programming
 - Syntax & Variable Types
 - Data Types and Conversion
@@ -27,7 +27,7 @@ Python
 - Machine Learning Specific Modules
 
 
-Framework
+### Framework
 - Selection Criteria
 - Tradevesting Strategies
 - Configure & Analyse
